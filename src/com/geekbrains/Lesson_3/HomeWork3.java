@@ -2,7 +2,6 @@ package com.geekbrains.Lesson_3;
 
 import java.util.Arrays;
 
-import static java.util.Arrays.deepToString;
 
 public class HomeWork3 {
 
